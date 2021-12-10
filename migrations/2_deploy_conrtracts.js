@@ -1,4 +1,4 @@
-var ProofOfExistence3 = artifacts.require("./ProofOfExistence3.sol");
+var ProofOfExistence2 = artifacts.require("./ProofOfExistence2.sol");
 module.exports = function(deployer) {
-  deployer.deploy(ProofOfExistence3);
+  deployer.deploy(ProofOfExistence2);
 };
